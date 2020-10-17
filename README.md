@@ -8,3 +8,5 @@
 - The Illustrated GPT-2 (Visualizing Transformer Language Models) (Alammar, 2019) http://jalammar.github.io/illustrated-gpt2/
 - BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (Devlin et al, 2018) https://arxiv.org/abs/1810.04805
 - How GPT3 Works - Visualizations and Animations (Alammar, 2020) http://jalammar.github.io/how-gpt3-works-visualizations-animations/
+- Jukebox - A neural network that generates music! https://openai.com/blog/jukebox/
+- GPT-3 Can also help with auto-programming! https://beta.openai.com/?app=productivity&example=4_2_0
